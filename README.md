@@ -9,20 +9,20 @@ This project recreates the core mechanics of Flappy Bird using Unity essentials 
 - JetBrains Rider
 
 # 📂 Project Structure
-Assets/
-├── Scripts/
-│   ├── BirdScript.cs
-│   ├── PipeMoveScript.cs
-│   ├── PipeSpawnerScript.cs
-│   ├── PipeMiddleScript.cs
-│   └── LogicScript.cs
-├── Prefabs/
-│   └── Pipe.prefab
-├── Sprites/
-│   ├── Bird.png
-│   └── Pipe.png
-└── Scenes/
-    └── MainScene.unity
+Assets/  
+├── Scripts/  
+│   ├── BirdScript.cs  
+│   ├── PipeMoveScript.cs  
+│   ├── PipeSpawnerScript.cs  
+│   ├── PipeMiddleScript.cs  
+│   └── LogicScript.cs  
+├── Prefabs/  
+│   └── Pipe.prefab  
+├── Sprites/  
+│   ├── Bird.png  
+│   └── Pipe.png  
+└── Scenes/  
+    └── MainScene.unity  
 
 # 🎮 Gameplay Features
 - Flappy Bird–style physics and controls
